@@ -1,3 +1,6 @@
+#String Comonation From Given Number
+
+
 n=input("Enter have non-Zero Number here :")
 for i in n:
     i=int(i)
